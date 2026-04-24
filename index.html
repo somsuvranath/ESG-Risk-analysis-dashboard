@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S&P 500 ESG Risk Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        header {
+            background: #1a3e4c;
+            color: white;
+            padding: 25px 35px;
+        }
+        header h1 {
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+        header p {
+            opacity: 0.9;
+            font-size: 16px;
+        }
+        .dashboard-wrapper {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+        }
+        .dashboard-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        .footer {
+            background: #f8f9fa;
+            padding: 15px 35px;
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+            border-top: 1px solid #e0e0e0;
+        }
+        .status-badge {
+            display: inline-block;
+            background: #ffc107;
+            color: #333;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 S&P 500 ESG Risk Analysis Dashboard</h1>
+            <p>Environmental, Social & Governance risk scores across sectors and industries</p>
+            <div class="status-badge">⚠️ Power BI Embed Required</div>
+        </header>
+        <div class="dashboard-wrapper">
+            <!-- STEP 1: Publish your Power BI dashboard to web -->
+            <!-- STEP 2: Replace the src URL below with your Power BI embed code -->
+            <iframe src="https://app.powerbi.com/view?r=YOUR_EMBED_CODE_HERE"></iframe>
+        </div>
+        <div class="footer">
+            <strong>Data Source:</strong> S&P 500 ESG Risk Ratings | 
+            <strong>Tool:</strong> Microsoft Power BI | 
+            <strong>Interactive:</strong> Use slicers to filter by sector & industry
+        </div>
+    </div>
+</body>
+</html>
