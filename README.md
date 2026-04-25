@@ -25,7 +25,8 @@
 
 ## 📸 Dashboard Preview
 
-*[Add your screenshot here after uploading]*
+<img width="897" height="500" alt="image" src="https://github.com/user-attachments/assets/ea4c41fd-fd70-45df-8c77-f93c8bf324ff" />
+
 
 ---
 
