@@ -1,4 +1,11 @@
-# ESG-Risk-analysis-dashboard
+## 📊 Live Interactive Dashboard
+
+**🔗 View the live dashboard here:** 
+
+> *Replace the above link with your actual GitHub Pages URL after deployment.*
+
+---
+
 ## 📌 Project Overview
 
 This project transforms raw ESG (Environmental, Social, Governance) risk data for S&P 500 companies into an interactive, executive-level Power BI dashboard. The dashboard enables investors, analysts, and sustainability professionals to quickly identify which sectors and industries face the highest sustainability risks.
@@ -33,3 +40,5 @@ This project transforms raw ESG (Environmental, Social, Governance) risk data fo
 | **DAX Measures** | Created dynamic averages (`Avg Total ESG Risk`), risk level categorization, and conditional formatting logic |
 | **Data Modeling** | Established relationships between sector, industry, and risk score tables |
 | **Visualization Design** | Built bar charts, donut charts, and slicers with intuitive UX for executive users |
+| **Deployment** | Published to Power BI Service and embedded into GitHub Pages using HTML iframe |
+| **Version Control** | Managed project lifecycle using Git and GitHub |
