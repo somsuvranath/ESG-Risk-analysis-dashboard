@@ -1,8 +1,7 @@
 ## 📊 Live Interactive Dashboard
 
-**🔗 View the live dashboard here:** 
+**🔗 View the live dashboard here:**https://somsuvranath.github.io/ESG-Risk-analysis-dashboard/ 
 
-> *Replace the above link with your actual GitHub Pages URL after deployment.*https://somsuvranath.github.io/ESG-Risk-analysis-dashboard/
 
 
 ---
