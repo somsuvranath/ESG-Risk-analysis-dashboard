@@ -1,18 +1,5 @@
-# 🌍 S&P 500 ESG Risk Ratings Dashboard
+📊 ESG Risk Analytics Dashboard (Power BI)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-327FC7?style=for-the-badge&logo=github&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-FFB900?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)
-
-## 📑 Quick Navigation
-- [Live Dashboard](#-live-interactive-dashboard)
-- [Project Overview](#-project-overview)
-- [Key Insights](#-key-insights-from-the-data)
-- [Technical Skills](#-technical-skills-demonstrated)
-- [How to Use](#-how-to-use-this-dashboard)
-
----
 
 ## 📊 Live Interactive Dashboard
 
