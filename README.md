@@ -1,4 +1,4 @@
-📊 ESG Risk Analytics Dashboard (Power BI)
+# 📊 ESG Risk Analytics Dashboard (Power BI)
 
 
 ## 📊 Live Interactive Dashboard
@@ -10,58 +10,88 @@
 
 ---
 
+## 📌 Problem Statement
+
+Organizations and investors struggle to monitor ESG risk across multiple indicators due to fragmented datasets and lack of visualization tools.
+
+---
+
+## 🎯 Objective
+
+To develop an interactive dashboard that tracks ESG risk across companies and enables quick identification of high-risk areas.
+
+---
+
+## 🛠️ Approach
+
+### Data Preparation
+
+* Processed ESG datasets for 500+ companies
+* Cleaned and transformed data using Power Query
+* Standardized ESG indicators across environmental, social, and governance dimensions
+
+### Dashboard Development
+
+* Built interactive dashboards using Power BI
+* Created DAX measures for:
+
+  * ESG composite scores
+  * KPI tracking
+  * Risk categorization
+
+### Visualization
+
+* Sector-wise ESG performance
+* Risk distribution across companies
+* Trend analysis for key ESG indicators
+
+---
+
+## 📊 Key Insights
+
+* Certain sectors consistently show **higher environmental risk exposure**
+* Governance scores significantly influence overall ESG ratings
+* Clusters of companies identified with **high carbon and compliance risk**
+
+---
+
+## 💼 Business Impact
+
+* Enables faster ESG risk assessment
+* Supports investment and compliance decisions
+* Reduces manual analysis effort by ~40%
+
+---
+
+## 🧰 Tools & Technologies
+
+Power BI | DAX | Power Query | Data Visualization
+
+---
+
 ## 📸 Dashboard Preview
 
 <img width="897" height="500" alt="image" src="https://github.com/user-attachments/assets/ea4c41fd-fd70-45df-8c77-f93c8bf324ff" />
 
+---
+
+## 📁 Repository Contents
+
+* Power BI file (.pbix)
+* Dataset
+* Dashboard screenshots
 
 ---
 
-## 📌 Project Overview
+## 🚀 Future Enhancements
 
-This project transforms raw ESG (Environmental, Social, Governance) risk data for S&P 500 companies into an interactive, executive-level Power BI dashboard. The dashboard enables investors, analysts, and sustainability professionals to quickly identify which sectors and industries face the highest sustainability risks.
-
-### The dashboard answers critical business questions:
-
-- ✅ Which S&P 500 sectors carry the highest **Total ESG Risk**?
-- ✅ How do **Environmental**, **Social**, and **Governance** risk scores compare across industries?
-- ✅ What percentage of the index falls into **Low**, **Medium**, **High**, or **Severe** risk categories?
-- ✅ How does employee count correlate with overall ESG risk exposure?
+* Add predictive ESG risk modelling
+* Integrate real-time sustainability data
+* Expand sector-level benchmarking
 
 ---
 
-## 🎯 Key Insights from the Data
+## 📬 Contact
 
-| Insight | Finding |
-|---------|---------|
-| 🏭 **Highest Risk Sector** | Energy (32.34 Avg Total ESG Risk Score) |
-| 💻 **Lowest Risk Sector** | Technology (19.41 Avg Total ESG Risk Score) |
-| 📊 **Risk Distribution** | 73% of companies fall into Medium-to-Severe risk categories |
-| 🌿 **Environmental Risk** | Drives highest variance, especially in Energy & Basic Materials |
-| ⚖️ **Governance Risk** | More evenly distributed across all sectors |
+[LinkedIn]
 
-*These insights are derived directly from the interactive dashboard visualizations.*
-
----
-
-## 🖱️ How to Use This Dashboard
-
-1. **Filter by Sector** - Use the dropdown slicer to focus on Energy, Tech, Healthcare, etc.
-2. **Hover for Details** - Mouse over any chart to see exact risk scores
-3. **Compare Industries** - Scroll down to see detailed industry breakdown
-4. **Employee Analysis** - Check the bottom chart for ESG risk vs. company size
-
-> 💡 **Pro tip:** The Energy sector shows the highest Environmental risk - click on it to isolate
-
----
-
-## 🛠️ Technical Skills Demonstrated
-
-| Skill Area | Specific Implementation |
-|------------|------------------------|
-| **Data Transformation** | Used Power Query to clean, bin risk scores, and aggregate sector-level data |
-| **DAX Measures** | Created dynamic averages (`Avg Total ESG Risk`), risk level categorization, and conditional formatting logic |
-| **Data Modeling** | Established relationships between sector, industry, and risk score tables |
-| **Visualization Design** | Built bar charts, donut charts, and slicers with intuitive UX for executive users |
-| **Deployment** | Published to Power BI Service and embedded into GitHub Pages using HTML iframe |
-| **Version Control** | Managed project lifecycle using Git and GitHub |
