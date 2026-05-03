@@ -92,6 +92,5 @@ Power BI | DAX | Power Query | Data Visualization
 ---
 
 ## 📬 Contact
-
-[LinkedIn]
+www.linkedin.com/in/somsuvranath
 
