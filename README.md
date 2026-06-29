@@ -4,7 +4,8 @@
 ## 📊 Live Interactive Dashboard
 
 **🔗 View the live dashboard here:**  
-👉 [https://somsuvranath.github.io/ESG-Risk-analysis-dashboard/](https://somsuvranath.github.io/ESG-Risk-analysis-dashboard/)
+👉 https://somsuvranath.github.io/esg-risk-analytics-dashboard/
+
 
 > *Allow 10-15 seconds for the dashboard to load completely*
 
